@@ -1,0 +1,2 @@
+import type {MetadataRoute} from "next";
+export default function manifest():MetadataRoute.Manifest{return{name:"Framemaker",short_name:"Framemaker",description:"Editor de wallpapers para iPhone 17 Pro",start_url:"/",display:"standalone",background_color:"#121018",theme_color:"#121018",icons:[{src:"/icon.svg",sizes:"any",type:"image/svg+xml"},{src:"/apple-icon",sizes:"1024x1024",type:"image/png"}]}}
