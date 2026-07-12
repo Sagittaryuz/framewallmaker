@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "FrameWallMaker — Wallpapers para iPhone 17 Pro",
-  description: "Crie wallpapers enquadrados para a Dynamic Island, Dock, ícones e widgets do iPhone 17 Pro.",
+  title: "Framemaker",
+  description: "Crie wallpapers personalizados para o iPhone 17 Pro.",
   icons: {
     icon: "/favicon.svg",
     shortcut: "/favicon.svg",
